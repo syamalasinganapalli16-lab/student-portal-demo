@@ -1,0 +1,5 @@
+Name: singanapalli syamala
+Suc number: 2367250128
+Course: cloud computing
+section: A
+Group: BSC computer science
